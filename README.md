@@ -62,7 +62,7 @@ I'm a Computer Science undergraduate at Sabaragamuwa University of Sri Lanka, in
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaveen-madushanka-920a13393/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
